@@ -151,7 +151,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://github.com/zsank">
-                    <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
+                    <img src="https://img.freepik.com/premium-photo/futuristic-abstract-love-cloud-landscape-generative-ai_372999-12223.jpg" width="100px;" alt="Sanket Zade"/>
                     <br />
                     <sub><b>Sanket Zade</b></sub>
                 </a>
