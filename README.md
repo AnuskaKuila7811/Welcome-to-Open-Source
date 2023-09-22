@@ -107,7 +107,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">   
                 <a href="https://github.com/Anujsharma002">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
+                    <img src="https://img.freepik.com/premium-photo/futuristic-abstract-love-cloud-landscape-generative-ai_372999-12223.jpg" width="100px;" alt="Anuj sharma"/>
                     <br />
                     <sub><b>Anuj sharma</b></sub>
                 </a>
